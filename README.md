@@ -1,2 +1,4 @@
-# Olá Programador
- Primeiro Repositório
+# Olá, Programador!
+ Primeiro Repositório Git e GitHub
+
+Repositório criado durante o curso.
